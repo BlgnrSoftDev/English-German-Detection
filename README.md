@@ -21,7 +21,7 @@ Kullanıcıdan bir metin alınacaktır. Kullanıcıdan alınan metin üzerinde �
 
 <h2>Programlama Aşamaları</h2>
 
-•	İlk önce ödev verildiği ilk gün grup arkadaşım Yusuf ile beraber 2-3 saatlik meeting düzenledik ve genel olarak projemizi çözümlemeye ve genel problemlerin meydana çıkarılması işlemleri yaptık,  proje taslağında tutarsızlıklar olduğunu keşfettik ve bunu geri bildirim olarak hocalarımıza e-mail aracılığıyla gönderdik.
+•	İlk önce ödev verildiği ilk gün grup arkadaşım Yusuf ile beraber 2-3 saatlik meeting düzenledik ve genel olarak projemizi çözümlemeye ve genel problemlerin meydana çıkarılması işlemleri yaptık,  proje taslağında tutarsızlıklar olduğunu keşfettik ve bunu geri bildirim olarak hocalarımıza e-mail aracılığıyla gönderdik. 
 <br>
 •	Bu işlemlerimizden 2 gün sonra projede bulduğumuz tutarsızlıklar araştırma görevlisi hocalarımız tarafından giderildi ve projemize tam anlamıyla başladık. Öncelikle projelerin en önemli kısmı olan ‘Algoritma’ hakkında beyin fırtınası yaptık ve ortak kararımız ile  divide and conqure (böl ve fethet) yaklaşımıyla algoritmamızı hazırlamaya koyulduk. Proje taslağında genel olarak ihtiyacımız olan çoğu argüman verildiği için algoritma kurmamız bir o kadar da kolaylaştı. Kağıt kalem veya  flowchart (akış şeması) kullanmadan aklımızdan algoritmayı kurduk.
 <br>
