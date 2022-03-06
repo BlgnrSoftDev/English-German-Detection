@@ -1,7 +1,7 @@
 # English-German-Detection
 This project detects whether the given text expression is in English or German.
 <br>
-Bu proje verilen metinin inglizice mi yoksa almanca mı yazıldığındığını tespit eder.
+1.sınıfta grup ödevi olarak yaptığımız bu proje, verilen metinin inglizice mi yoksa almanca mı yazıldığındığını tespit eder.
 <h2>Görev</h2>
 Kullanıcıdan bir metin alınacaktır. Kullanıcıdan alınan metin üzerinde önceden belirlenmiş olan bigram ve trigramların frekansları hesaplanacaktır (frekans hesaplaması; her bir bigramın ve her bir trigramın bu metinde kaç kez geçtiğinin bulunması). Bu hesaplamalar sonucunda elde ettiğiniz frekans matrisi ile size taslak kod içerisinde verilen frekans matrisi (bu matriste İngilizce ve Almanca dillerinin frekans değerleri yer almaktadır) karşılaştırılacaktır. İngilizce ve Almanca dillerinin her birinin frekansları ile sizin elde ettiğiniz frekans matrisi arasında ayrı ayrı uzaklık hesabı yapılacaktır .Hangi dil ile daha küçük uzaklık değeri elde edildiyse, metnin yazıldığı dil olarak o dil tahmin edilecektir.
 
