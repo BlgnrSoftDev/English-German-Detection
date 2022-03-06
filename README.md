@@ -1,5 +1,4 @@
 # English-German-Detection
-This project detects whether the given text expression is in English or German.
 <br>
 1.sınıfta grup ödevi olarak yaptığımız bu proje, verilen metinin inglizice mi yoksa almanca mı yazıldığındığını tespit eder.
 <h2>Görev</h2>
